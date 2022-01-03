@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏾
 
 <!--
 **aTamarsh/aTamarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on building a beautiful MERN application.
+- 🔭 I’m currently working on building simple and elegant MERN applications.
 
 - 🌱 I’m currently learning Flutter!
 
-- 🧔🏾‍♂️ About me: A post-baccalaureate student in Computer Science at Oregon State University (expected graduation Spring '22).  Prior to this, I worked in Immigration Law to defend clients from deportation proceedings and in the prosecution of Gang Violence and Hate Crimes.
+- 🧔🏾‍♂️ About me: A post-baccalaureate student in Computer Science at Oregon State University (expected graduation Spring '22).  Prior to this, I worked in Immigration Law defending clients from deportation proceedings and in the prosecution of Gang Violence and Hate Crimes at the Queens County District Attorney's Office.
 
 - ⚡ Fun fact(s): I was born in Sri Lanka and raised there till the age of 10.  After that, my parents and I immigrated to Queens, NY where I completed my education and graduated from Queens College with a dual-degree Bachelor's in Political Science & Psychology.
   
