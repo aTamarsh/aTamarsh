@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on building my portfolio.
+- 🧔🏾‍♂️ About me: I'm a post-baccalaureate student in Computer Science at Oregon State University. Currently based in Portland, OR.
 
-- 🌱 I’m currently learning Flutter!
-
-- 🧔🏾‍♂️ About me: A post-baccalaureate student in Computer Science at Oregon State University.
-
-- ⚡ Fun fact(s): I was born and raised in Sri Lanka.  After that, I immigrated to the melting pot of Queens, NY.
+- ⚡ Fun fact(s): I was born and raised in Sri Lanka. It's nicknamed the Pearl of the Indian Ocean and teardrop of India!
   
 <p align="center">
   <a href="mailto:<abeysekera.tamarsh@gmail.com>?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
