@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋🏾, I'm Tamarsh</h1>
+<h1 align="center">Hi 👋🏾 I'm Tamarsh</h1>
 <h3 align="center">A detail-oriented engineer with a focus on warmly communicating and collaborating with all parties.</h3>
 
 <!-- About me section -->
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **C++, Python, JavaScript, the MERN stack.**
+- 💬 Ask me about **C++, Python, JavaScript, the MERN stack**, or anything you want!
 
 - 📫 How to reach me: **abeysekera.tamarsh@gmail.com**
 
