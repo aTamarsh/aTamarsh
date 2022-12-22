@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **abeysekera.tamarsh@gmail.com**
 
-- ⚡ Fun fact **I was born in Sri Lanka and raised in Queens, NY.**
+- ⚡ Fun fact: **I was born in Sri Lanka and raised in Queens, NY.**
 
 <!-- Connect w/ me section -->
 <h3 align="left">Connect with me:</h3>
