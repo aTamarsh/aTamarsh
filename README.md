@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋🏾 I'm Tamarsh</h1>
 <h3 align="center">
-  Full Stack Software Engineer,<br />
+  Full Stack Software Engineer<br />
   B.S. in Computer Science, Oregon State University.
 </h3>
 
