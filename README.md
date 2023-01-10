@@ -16,18 +16,14 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋🏾 I'm Tamarsh</h1>
 <h3 align="center">
-  Full Stack Software Engineer<br />
-  B.S. in Computer Science, Oregon State University.
+  Full Stack Software Engineer
 </h3>
 
 <!-- About me section -->
 - 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **C++, Python, JavaScript, the MERN stack, Flutter**, or anything you want!
-
+- 💬 Ask me about **C++, Python, JavaScript, Mobile Software Development**, or anything you want!
 - 📫 How to reach me: **abeysekera.tamarsh@gmail.com**
-
-- ⚡ Fun fact: I was born in Sri Lanka and raised in Queens, NY.
+- ⚡ Fun fact: I was born in Sri Lanka  and raised in Queens, NY.
 
 <!-- Connect w/ me section -->
 <h3 align="left">Connect with me:</h3>
