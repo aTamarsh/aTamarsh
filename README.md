@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- About me section -->
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **C++, Python, JavaScript, the MERN stack**, or anything you want!
+- 💬 Ask me about **C++, Python, JavaScript, the MERN stack, Flutter**, or anything you want!
 
 - 📫 How to reach me: **abeysekera.tamarsh@gmail.com**
 
