@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋🏾 I'm Tamarsh</h1>
-<h3 align="center">A detail-oriented engineer with a focus on warmly communicating and collaborating with all parties.</h3>
+<h3 align="center">
+  Full Stack Software Engineer, 
+  B.S. in Computer Science, Oregon State University.
+</h3>
 
 <!-- About me section -->
 - 🌱 I’m currently learning **Flutter**
