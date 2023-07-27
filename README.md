@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">
   Full Stack Software Engineer
 </h3>
-<h4 align="center">  B.S. Computer Science, Oregon State University </h3>
+<h4 align="center">  B.S. Computer Science, Oregon State University '23</h3>
 
 <!-- About me section -->
 - 🌱 I’m currently learning **Flutter**
