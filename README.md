@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![tamarsh_at_work](https://i.imgur.com/2PFsPLM.jpg)
+
 <h1 align="center">Hi 👋🏾 I'm Tamarsh</h1>
 <h3 align="center">
   Full Stack Software Engineer
